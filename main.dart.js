@@ -28012,7 +28012,7 @@ h=A.fM(A.a6T(A.a([A.amE("MOBEVAC",A.bz(0,0,0,3),!1)],g),!0,a1),a1,a1,B.bm,!0,h,a
 f=A.S(a1,40,a1)
 e=A.O(a1,a1,B.h,a1,a1,a1,a1,a1,A.JA().$0().d,a1,a1,40,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1)
 d=t.p
-o=A.mL(!0,new A.a_(B.hy,A.W(a1,A.b8(A.a([m,A.aHJ(A.W(B.h9,A.b8(A.a([h,f,A.fM(A.a6T(A.a([A.amE(" W   e   l   c   o   m   e",A.bz(0,0,0,3),!1)],g),!0,new A.aCD()),a1,a1,B.bm,!0,e,a1,a1,B.aq)],d),B.n,B.E,B.m),B.e,a1,a1,new A.ah(a1,a1,new A.dn(new A.bg(i,9,B.H,-1),new A.bg(j,9,B.H,-1),B.F,new A.bg(k,9,B.H,-1)),a1,a1,a1,a1,B.o),a1,400,a1,a1,a1,a1,400),l)],d),B.n,B.w,B.m),B.e,a1,a1,new A.ah(B.bW,n,a1,a1,a1,a1,a1,B.o),a1,600,a1,a1,a1,a1,1/0),a1),o)
+o=A.mL(!0,new A.a_(B.hy,A.W(a1,A.b8(A.a([m,A.aHJ(A.W(B.h9,A.b8(A.a([h,f,A.fM(A.a6T(A.a([A.amE(" W   e   l   c   o   m   e",A.bz(0,0,0,3),!1)],g),!0,new A.aCD()),a1,a1,B.bm,!0,e,a1,a1,B.aq)],d),B.n,B.E,B.m),B.e,a1,a1,new A.ah(a1,a1,new A.dn(new A.bg(i,9,B.H,-1),new A.bg(j,9,B.H,-1),B.F,new A.bg(k,9,B.H,-1)),a1,a1,a1,a1,B.o),a1,400,a1,a1,a1,a1,400),l)],d),B.n,B.w,B.m),B.e,a1,a1,new A.ah(B.bW,n,a1,a1,a1,a1,a1,B.o),a1,400,a1,a1,a1,a1,1/0),a1),o)
 n=A.S(a1,90,a1)
 l=A.S(a1,30,a1)
 m=t.G
@@ -28023,11 +28023,11 @@ i=A.Q(u.u,a1,a1,a1,a1,a1,A.O(a1,a1,B.f,a1,a1,a1,a1,a1,A.aCw().$0().d,a1,a1,13,a1
 h=A.S(a1,20,a1)
 g=A.bn(6)
 f=A.a3(a4,m).x==="en"?"Who we are":"\u0645\u0646 \u0646\u062d\u0646"
-g=A.bR(!1,a1,!0,A.W(B.cn,A.b5(A.a([A.bV(A.Q(f,a1,a1,a1,a1,a1,A.O(a1,a1,B.f,a1,a1,a1,a1,a1,a1,a1,a1,12,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1),a1,a1,a1),a1,a1),A.S(a1,a1,20),A.bB(B.pV,B.f,a1,a1)],d),B.n,B.E,B.m),B.e,a1,a1,new A.ah(B.dZ,a1,a1,g,a1,a1,a1,B.o),a1,55,a1,a1,a1,a1,150),a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.aCE(),a1,a1,a1,a1)
+g=A.bR(!1,a1,!0,A.W(B.cn,A.b5(A.a([A.bV(A.Q(f,a1,a1,a1,a1,a1,A.O(a1,a1,B.f,a1,a1,a1,a1,a1,a1,a1,a1,12,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1),a1,a1,a1),a1,a1),A.S(a1,a1,8),A.bB(B.pV,B.f,a1,a1)],d),B.n,B.E,B.m),B.e,a1,a1,new A.ah(B.dZ,a1,a1,g,a1,a1,a1,B.o),a1,55,a1,a1,a1,a1,120),a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.aCE(),a1,a1,a1,a1)
 f=A.S(a1,a1,16)
 e=A.bn(6)
 c=A.a3(a4,m).x==="en"?"Contact Us":"\u062a\u0648\u0627\u0635\u0644 \u0645\u0639\u0646\u0627 "
-q=A.W(a1,new A.a_(B.a9,A.b8(A.a([p,o,A.b8(A.a([n,l,new A.a_(new A.aA(2,2,2,2),k,a1),j,new A.a_(new A.aA(80,0,0,0),i,a1),h,A.b5(A.a([new A.a_(B.cJ,g,a1),f,new A.a_(B.l1,A.bR(!1,a1,!0,A.W(B.cn,A.b5(A.a([A.bV(A.Q(c,a1,a1,a1,a1,a1,A.O(a1,a1,B.f,a1,a1,a1,a1,a1,a1,a1,a1,12,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1),a1,a1,a1),a1,a1),A.S(a1,a1,20),A.bB(B.pQ,B.f,a1,a1)],d),B.n,B.E,B.m),B.e,a1,a1,new A.ah(B.dZ,a1,a1,e,a1,a1,a1,B.o),a1,55,a1,a1,a1,a1,200),a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.aCF(),a1,a1,a1,a1),a1)],d),B.n,B.w,B.m),A.S(a1,50,a1)],d),B.al,B.w,B.m)],d),B.n,B.w,B.m),a1),B.e,a1,a1,new A.ah(B.U,a1,q,a1,a1,a1,a1,B.o),a1,a1,a1,a1,a1,a1,a1)
+q=A.W(a1,new A.a_(B.a9,A.b8(A.a([p,o,A.b8(A.a([n,l,new A.a_(new A.aA(2,2,2,2),k,a1),j,new A.a_(new A.aA(40,0,0,0),i,a1),h,A.b5(A.a([new A.a_(B.cJ,g,a1),f,new A.a_(B.l1,A.bR(!1,a1,!0,A.W(B.cn,A.b5(A.a([A.bV(A.Q(c,a1,a1,a1,a1,a1,A.O(a1,a1,B.f,a1,a1,a1,a1,a1,a1,a1,a1,12,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1),a1,a1,a1),a1,a1),A.S(a1,a1,8),A.bB(B.pQ,B.f,a1,a1)],d),B.n,B.E,B.m),B.e,a1,a1,new A.ah(B.dZ,a1,a1,e,a1,a1,a1,B.o),a1,55,a1,a1,a1,a1,120),a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.aCF(),a1,a1,a1,a1),a1)],d),B.n,B.w,B.m),A.S(a1,50,a1)],d),B.al,B.w,B.m)],d),B.n,B.w,B.m),a1),B.e,a1,a1,new A.ah(B.U,a1,q,a1,a1,a1,a1,B.o),a1,a1,a1,a1,a1,a1,a1)
 e=A.S(a1,60,a1)
 c=A.j2(new A.aN(6,6))
 c=A.W(B.t,new A.a_(B.a9,A.Q("Latest news",a1,a1,a1,a1,a1,A.O(a1,a1,B.h,a1,a1,a1,a1,a1,a1,a1,a1,12,a1,a1,B.p,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1),a1,a1,a1),a1),B.e,a1,a1,new A.ah(B.cs,a1,a1,c,a1,a1,a1,B.o),a1,40,a1,a1,a1,a1,150)
